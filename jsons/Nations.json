@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Alchembrew",
+		"leaderName": "Zephyr Maelstrom",
+		"adjective": ["Alchembrewian"],
+		"startBias": ["Grassland,Coast"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Hello, Mr. President.  The people of the Republic of the Rising Star, the great Republic of Alchembrew, are looking to you to lead them through these trying times.",
+		"startIntroPart2": "With the might of the Aether at your back, and your people to command, can you lead Alchembrew into prosperity?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You have crossed us one too many times. Prepare for a war you cannot win.",
+		"attacked": "You should not have attacked our great nation. Your army fighting our army is like bringing a knife to a gunfight. Prepare for defeat like you have never known,",
+		"defeated": "We may have fallen, but the might of the Aether will still crush you!",
+		"introduction": "Hello. I am President Zephyr Maelstrom, leader of Alchembrew, the mighty Republic of the Rising Star. What achievements do you have to your name, and what land do you call your own?"
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Hello. What would you like to speak about?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
@@ -25,14 +25,12 @@
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"tradeRequest": "We offer you this trade, looking to help both of our nations.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [0,71,171],
+		"innerColor": [220,60,60],
+		"unique": "Starts with [Mobile Tactics]",
+		"cities": ["Alchembrew","New Viridia","Westport","North Pointe","New Amsterdam","Arctica","New Milwaukee","Dryden","Birmingham",
+			"New Racine","Monroeville","South Alchembrew"]
 	}
 ]
